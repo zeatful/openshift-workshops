@@ -1,6 +1,8 @@
 
 /*global module:false*/
 module.exports = function(grunt) {
+  
+  /* no wai */
 
   // Project configuration.
   grunt.initConfig({
